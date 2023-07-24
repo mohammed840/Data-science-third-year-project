@@ -2,16 +2,16 @@
 Welcome to the COMP30780-Data Science in Practice-2022/23 Spring Group Project repository! This repository showcases the collaborative effort and innovative work of our group's third-year project for the course "Data Science in Practice."
 
 
-Overview
+# Overview
 This repository contains the code and data for a group project focused on analyzing movies and TV shows to predict their box office success and understand the impact of episode/season count and length on TV show ratings, votes, and overall success. The project aims to explore the relationships between various factors and the commercial performance of movies and TV shows, offering insights into what makes a production successful in the entertainment industry.
 
-Research Questions
+# Research Questions
 Can we predict the box office success of a movie?
 Does episode/season count and length impact TV show ratings, votes, and success?
 Data Sources
 The project utilizes a comprehensive dataset comprising information on movies and TV shows, including details such as box office earnings, genre, release date, runtime, and more. The dataset was collected from reliable sources and preprocessed to ensure its quality and usability for analysis.
 
-Methodology
+# Methodology
 1. Box Office Success Prediction
 To predict the box office success of a movie, the following steps were undertaken:
 

@@ -40,7 +40,7 @@ Through this project, we gained valuable insights into predicting the box office
 
 
 
- #Contributing
+ # Contributing
 We welcome contributions to improve the project, expand the analysis, or incorporate additional datasets. If you would like to contribute, please submit a pull request with a detailed description of your changes.
 
 License

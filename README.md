@@ -2,7 +2,8 @@
 Welcome to the COMP30780-Data Science in Practice-2022/23 Spring Group Project repository! This repository showcases the collaborative effort and innovative work of our group's third-year project for the course "Data Science in Practice."
 
 
-https://media.licdn.com/dms/image/C4E12AQEotR0tj7qo4Q/article-inline_image-shrink_1000_1488/0/1618727342576?e=1694044800&v=beta&t=0QY-l_lZzADlBbT54u_RgP72RVxw9I_BOnEVhrLYsw8 
+![image](https://media.licdn.com/dms/image/C4E12AQEotR0tj7qo4Q/article-inline_image-shrink_1000_1488/0/1618727342576?e=1694044800&v=beta&t=0QY-l_lZzADlBbT54u_RgP72RVxw9I_BOnEVhrLYsw8 )
+
 
 
 # Overview

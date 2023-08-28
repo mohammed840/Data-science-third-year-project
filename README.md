@@ -4,7 +4,7 @@ Welcome to the COMP30780-Data Science in Practice-2022/23 Spring Group Project r
 
 ![image](https://media.licdn.com/dms/image/C4E12AQEotR0tj7qo4Q/article-inline_image-shrink_1000_1488/0/1618727342576?e=1694044800&v=beta&t=0QY-l_lZzADlBbT54u_RgP72RVxw9I_BOnEVhrLYsw8 )
 
-
+# Grade: B+
 
 # Overview
 This repository contains the code and data for a group project focused on analyzing movies and TV shows to predict their box office success and understand the impact of episode/season count and length on TV show ratings, votes, and overall success. The project aims to explore the relationships between various factors and the commercial performance of movies and TV shows, offering insights into what makes a production successful in the entertainment industry.
@@ -37,11 +37,6 @@ The project's analysis yielded several key findings:
 
 # Conclusion
 Through this project, we gained valuable insights into predicting the box office success of movies and understanding the factors influencing TV show ratings and success. The results provide filmmakers, producers, and content creators with actionable information to optimize their projects for commercial success.
-
-
-
-# Grade: B+
-
 
 
  # Contributing
